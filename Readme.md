@@ -1,6 +1,6 @@
 # 🙈 🙉 🙊 Parallax Image Slider
 
-## 😃 Click here for the 👉 [💥LIVE DEMO]()
+## 😃 Click here for the 👉 [💥LIVE DEMO](https://frontendfunn.github.io/parallax-image-slider-2/)
 
 ---
 
